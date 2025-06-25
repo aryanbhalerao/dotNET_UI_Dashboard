@@ -1,6 +1,6 @@
 # UI and Dashboard using WPF and MVVM
 
-This project classifies data from a JSON file according to two fields and presents data in a dasboard with visual representation. This utilises MVVM, WPF and Newtonsoft JSON reader. Fields are effieciently merged into the resultant JSON file which is actively viewed in the application's Results tab.
+This project classifies data from a JSON file according to two fields and presents data in a dasboard with visual representation. This utilises MVVM, WPF and Newtonsoft JSON reader. Fields are effieciently merged into the resultant JSON file which is actively viewed in the application's Results tab. It classifies nuts and fasteners into their respective types along with classying then along the lines of faults. 
 
 ## Instructions to Run:
 1. Open the sln file in Visual Studio 2022 with WPF and ASPNET toolkits installed.
