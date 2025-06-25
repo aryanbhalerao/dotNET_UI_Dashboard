@@ -8,7 +8,7 @@ This project classifies data from a JSON file according to two fields and presen
 3. Change the Readings.json file with your desired input file.
 4. Run the project.
 
-##Output Screenshots
+## Output Screenshots
 
 ![Screenshot 2025-06-25 154048](https://github.com/user-attachments/assets/611e175b-53e5-48d4-a786-44ac2587aec3)
 
